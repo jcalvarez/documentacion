@@ -3,3 +3,5 @@ Fichero editado nuevamente
 Cambio antes de subirlo a la web
 Staged
 Cambio nuevo
+
+Cambio en el servidor directamente
