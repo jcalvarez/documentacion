@@ -1,2 +1,5 @@
 ﻿Prueba de GIT
 Fichero editado nuevamente
+Cambio antes de subirlo a la web
+Staged
+Cambio nuevo
